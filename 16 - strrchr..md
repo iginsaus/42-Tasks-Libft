@@ -13,6 +13,3 @@ c - carácter que se va a buscar.
 3 - Si no encuentra el carácter ***c***, la función devuelve un puntero a NULL.
 
 NOTA: La diferencia entre **strchr** y **strrchr**, es que la primera comienza la búsqueda desde el principio de la cadena, mientras la segunda comienza la busqueda desde el final de la cadena.
-
-[[strrchr.pdf]]
-[[16-strrchr.pdf]]
