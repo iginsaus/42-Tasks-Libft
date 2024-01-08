@@ -7,6 +7,3 @@ El parámetro de la función es un carácter.
 ##### Funcionamiento:
 1 - Si el carácter es una letra minúscula, la función devuelve su versión en mayuscula.
 2 - Si el carácter no es una letra minúscula, la función devuelve el carácter sin modificaciones.
-
-[[toupper.pdf]]
-[[13-toupper.pdf]]
