@@ -5,6 +5,3 @@ De las páginas man - SYNOPSIS:
 #include <ctype.h>
 int isalnum(int c)
 ```
-
-[[isalphaisisis.pdf]]
-[[3-isalnum.pdf]]
