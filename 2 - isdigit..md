@@ -5,7 +5,3 @@ De las páginas man - SYNOPSIS:
 #include <ctype.h>
 int isdigit(int c)
 ```
-
-[[isalphaisisis.pdf]]
-[[2-isdigit.pdf]]
-
