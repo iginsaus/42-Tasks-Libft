@@ -20,7 +20,3 @@ La sintaxis de la función es `size_t strlcpy(char *dst, const char *src, size_t
 La función `strlcpy` es una alternativa más segura a `strcpy` y `strncpy`, diseñada para ser más fácil de usar correctamente, ya que toma el tamaño completo del búfer y garantiza la terminación con NUL del resultado, siempre que el tamaño sea mayor que 0[
 
 (https://linux.die.net/man/3/strlcpy)
-
-[[strlcpy.pdf]]
-[[11.strlcpy.pdf]]
-
