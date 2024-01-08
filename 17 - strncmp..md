@@ -12,7 +12,3 @@ n - El número de caracteres a comprobar.
 - Si las cadenas son iguales, la función devuelve 0.
 - Si la primera cadena es menor que la segunda cadena, la función devuelve un valor negativo.
 - Si la primera cadena es mayor que la segunda cadena, la función devuelve un valor positivo.
-
-[[strncmp.pdf]]
-[[17-strncmp.pdf]]
-
