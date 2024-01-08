@@ -12,10 +12,6 @@ De las páginas man Mac - SYNOPSIS:
 void *memmove(void *dst, const void *src, size_t len);
 ```
 
-
-[[memmove.pdf]]
-[[10-memmove.pdf]]
-
 ##### Los parámetros son:
 dst - Puntero a la ubicación de destino.
 src - Puntero a la ubicación de origen.
