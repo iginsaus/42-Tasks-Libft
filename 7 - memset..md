@@ -12,10 +12,6 @@ De las páginas man (Mac) - SYNOPSIS:
 void *memset(void *b, int c, size_t len);
 ```
 
-
-[[memset.pdf]]
-[[7-memset.pdf]]
-
 La función `memset` en C se utiliza para llenar un bloque de memoria con un valor particular. Su sintaxis es la siguiente: `void *memset(void *ptr, int x, size_t n)`. Donde:
 
 - `ptr` es la dirección de inicio de la memoria a llenar.
