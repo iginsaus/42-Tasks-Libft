@@ -5,7 +5,3 @@ De las páginas man - SYNOPSIS:
 #include <ctype.h>
 int isascii(int c)
 ```
-
-[[isalphaisisis.pdf]]
-[[4-isascii.pdf]]
-
