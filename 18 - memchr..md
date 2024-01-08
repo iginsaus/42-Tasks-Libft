@@ -12,6 +12,3 @@ La función memchr() busca la primera aparición del carácter ***c*** en los pr
 Si la función encuentra el carácter ***c***, devuelve un puntero al byte encontrado. Si no lo encuentra en los primeros ***n*** bytes, devuelve un puntero a NULL.
 
 NOTA: La función memchr() es equivalente a strchr(), pero memchr() funciona con bloques de memoria de cualquier tamaño, mientras strchr() solo funciona con cadenas de caracteres.
-
-[[memchr.pdf]]
-[[18-memchr.pdf]]
