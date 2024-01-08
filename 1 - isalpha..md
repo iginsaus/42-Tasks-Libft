@@ -5,6 +5,3 @@ De las páginas man - SYNOPSIS:
 #include <ctype.h>
 int isalpha(int c)
 ```
-
-[[isalphaisisis.pdf]]
-[[1-isalpha.pdf]]
